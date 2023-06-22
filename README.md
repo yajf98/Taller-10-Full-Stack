@@ -16,5 +16,9 @@
 <h2>Punto 5-6-7:</h2>
 <h3>5 - Base de datos</h3>
 <img src="./Public/images/mysql.png" alt="mysql">
+
 <h3>6 - Conexión</h3>
 <img src="./Public/images/connection.png" alt="connection">
+
+<h3>7 - Muestra de datos en pantalla</h3>
+<img src="./Public/images/bd.png" alt="bd">

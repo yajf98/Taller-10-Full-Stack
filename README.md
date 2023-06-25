@@ -1,13 +1,15 @@
-<h1>Taller 10: Yousef Junco</h1>
+<h1>Taller 10: Yousef Alexander Junco</h1>
 <hr>
 
 <h2>Informacion</h2>
 <p>Curso: Full Stack Básico Grupo 1<p>
 <p>Profesor: Cristian Patio<p>
 
-<h2>Punto 1:</h2>
+<h2>Punto 1: Calculadora</h2>
+<img src="./Public/images/calculator.png" alt="calculator">
 
-<h2>Punto 2:</h2>
+<h2>Punto 2: Verificador de edad</h2>
+<img src="./Public/images/check.png" alt="check">
 
 <h2>Punto 3:</h2>
 

@@ -11,7 +11,7 @@
 <body> 
   <div>
     <h1>Taller unidad 10</h1>
-    <h2>Yousef Alexander Junco Flechas</h2>
+    <h2 class="name">Yousef Alexander Junco Flechas</h2>
     <nav>
       <ul>
         <li>
